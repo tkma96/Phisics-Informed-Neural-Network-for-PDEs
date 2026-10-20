@@ -6,6 +6,6 @@ In this small project, I implement a PINN to replicate simple PDE-based systems 
 
 The animation below compares the analytical velocity profile with the predictions obtained using a supervised neural network.
 
-![Poiseuille Flow Comparison: channel flow particules](pinn_channel_flow_particles.gif)
+![Poiseuille Flow Comparison: channel flow particules](Animations/pinn_channel_flow_particles.gif)
 
-![Poiseuille Flow Comparison: velocity profile](pinn_channel_flow.gif)
+![Poiseuille Flow Comparison: velocity profile](Animations/pinn_channel_flow.gif)
